@@ -22,6 +22,6 @@ This application serves as an excellent example for those starting with Flutter 
 
 ---
 
-**Author:** Panagiotis Moschos  
+**Author:** Panagiotis Moschos :boy:  
 **Date:** 19-11-2023  
 **Description:** A Flutter application demonstrating a gradient background without the use of custom widgets.
